@@ -1,0 +1,1 @@
+Orignal line in Tpb: see what happens if this is the only file staged in a commit.
